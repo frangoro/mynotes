@@ -1,5 +1,5 @@
 # My Notes
-Web app for learning AngularJS
+web app for post-it management
 
 ## Technologies
 - PHP
