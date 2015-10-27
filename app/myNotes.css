@@ -1,0 +1,30 @@
+[name=estimation] {
+	width: 3em;
+}
+
+.error {
+	color:red;
+}
+
+.note {
+	border-style: groove;
+	border-width: 2px;
+	border-color: #FFFF00;
+	background-color: #FFFF99;
+	display: inline-block;
+	float: left;
+}
+
+.note p {
+	font-style: italic;
+	font-size: 12pt;
+}
+
+.note h1 {
+	margin-bottom: 10px;
+}
+
+.jumbotron {
+	background-color: yellow;
+	text-align: center;
+}
