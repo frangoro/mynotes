@@ -110,13 +110,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	<title>My Notes</title>
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="myNotes.css">
-	<!-- Jasmine dependencies -->
-	<link rel="stylesheet" href="http://cdn.jsdelivr.net/jasmine/2.0.0/jasmine.css" />
-	<script src="http://cdn.jsdelivr.net/jasmine/2.0.0/jasmine.js"></script>
-	<script src="http://cdn.jsdelivr.net/jasmine/2.0.0/jasmine-html.js"></script>
-	<script src="http://cdn.jsdelivr.net/jasmine/2.0.0/boot.js"></script>
-	<script src="../test/appSpec.js"></script>
-	<script src="../test/jasmineBootstrap.js"></script>
 	<!-- Angular dependencies -->
 	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
 	<script src="https://code.angularjs.org/1.3.5/angular-mocks.js"></script>
